@@ -1,0 +1,6 @@
+1 -> I am Daniel.
+
+2 -> I live in Douglas IOM(UK).
+
+3 -> I study at SoftUni.
+
